@@ -76,7 +76,7 @@ The `/excel` folder contains datasets related to AI's negative impacts (job loss
 
 | Member                  | Major Contributions                              |
 |-------------------------|--------------------------------------------------|
-| Farzana Akter Meem      | Data collection, Excel analysis, Charts         |
-| Shamim Ahmed            | Research, Report writing                         |
+| Farzana Akter Meem      | Data collection, Excel analysis, Report writing          |
+| Shamim Ahmed            | Research,  Presentation slides, Github Repository                        |
 | Mahbub Alam             | Content organization, Recommendations            |
-| Jesmin Akter Jhuma      | Presentation slides, Overview & Editing
+| Jesmin Akter Jhuma      | Excel data , Overview & Editing
