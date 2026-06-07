@@ -57,9 +57,6 @@ This project examines the negative sides of Artificial Intelligence, including e
 **2. Bar Chart - Negative Impacts**
 ![Bar Chart](images/bar-chart.png)
 
-**3. Diagram / Framework**
-![AI Negative Sides Diagram](images/diagram.png)
-
 ---
 
 ## 📊 Spreadsheet Explanation
