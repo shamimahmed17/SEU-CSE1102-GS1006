@@ -21,7 +21,7 @@ This project examines the negative sides of Artificial Intelligence, including e
 
 | SL | Name                    | Student ID         |
 |----|-------------------------|--------------------|
-| 1  | Farzana Akter Meem      | 2026000000320      |
+| 1  | Farjana Akter Mim      | 2026000000320      |
 | 2  | Shamim Ahmed            | 2026000000277      |
 | 3  | Mahbub Alam             | 2026000000272      |
 | 4  | Jesmin Akter Jhuma      | 2026000000297      |
@@ -76,7 +76,7 @@ The `/excel` folder contains datasets related to AI's negative impacts (job loss
 
 | Member                  | Major Contributions                              |
 |-------------------------|--------------------------------------------------|
-| Farzana Akter Meem      | Data collection, Excel analysis, Report writing          |
+| Farjana Akter Mim      | Data collection, Excel analysis, Report writing          |
 | Shamim Ahmed            | Research,  Presentation slides, Github Repository                        |
 | Mahbub Alam             | Content organization, Recommendations            |
 | Jesmin Akter Jhuma      | Excel data , Overview & Editing
